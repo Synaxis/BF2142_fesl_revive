@@ -1,3 +1,5 @@
+I am not the writer of the code.
+
 # Universal GameSpy Login Server
 Universal GameSpy Login Server
 
